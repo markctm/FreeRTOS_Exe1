@@ -105,6 +105,7 @@ static void prvTask_Notified(void *pvParameters)
             if (notificationValue == 1)
             {
                 printf("Tecla Acionada \n");
+            
             }
             else
             {
